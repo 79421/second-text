@@ -1,6 +1,6 @@
 <template>
   死心不改
-
+  <HelloWorld></HelloWorld>
 </template>
 
 <script>
